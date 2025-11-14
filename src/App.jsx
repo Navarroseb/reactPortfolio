@@ -3,13 +3,13 @@ import Navbar from './Components/Navbar/Navbar.jsx';
 import Hero from './Components/Hero/Hero.jsx';
 import About from './Components/About/About.jsx';
 
-export const App = () => {
+const App = () => {
   return (
-    <div>
+    <>
       <Navbar />
       <Hero />
       <About />
-    </div>
+    </>
   )
 }
 
