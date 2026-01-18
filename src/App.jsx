@@ -5,6 +5,7 @@ import About from './Components/About/About.jsx';
 import Services from './Components/Services/services.jsx';
 import MyWork from './Components/MyWork/MyWork.jsx';
 import Contact from './Components/Contact/Contact.jsx';
+import Footer from './Components/Footer/Footer.jsx';
 
 
 const App = () => {
@@ -16,6 +17,7 @@ const App = () => {
       <Services />
       <MyWork />
       <Contact />
+      <Footer />
     </>
   )
 }
