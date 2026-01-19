@@ -42,7 +42,7 @@ const Contact = () => {
                 <div className="contact-left">
                     <h1>Let's talk</h1>
                     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempore a maiores ad enim aliquam, unde repudiandae, dolores quos fugit numquam in similique ullam facilis sint veritatis dolorum totam. Est, accusantium.</p>
-                    <div className="contact-datails">
+                    <div className="contact-details">
                         <div className="contact-detail">
                             <img src={mail_icon} alt="" /> <p>signacionm@gmail.com</p>
                         </div>
